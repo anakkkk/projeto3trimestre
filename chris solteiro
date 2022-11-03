@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(222, 8, 250);
+    }
+
+.wrapper {
+    height: 420px;
+    width:  654px;
+    margin:  50px auto;
+    border-radius: 7ox 7px 7px 7px;
+    -webkit-box-shadow: 0px 14px 32px 0px  rgba(0,0,0,0.15);
+    -moz-box-shadow: 0px 14px 32px 0px rgba(0,0,0,0.15);
+    box-shadow: 0px 14px 32px 0px rgba(0,0,0,0.15);
+}
+
+#depositphotos_22796564-stock-photo-green-butterfly-isolated-on-white.jpg{
+   float: left;
+   height: 420px;
+   width: 327px;
+   border-radius: 0 7px 10px 7px;
+   background-color: crimson;
+
+}
+ .produtotexto{
+    height: 300px;
+    width: 327px;
+    background-color: rgb(211, 243, 32);
+}
+.produtotexto h1{
+  margin:0 0 0 0 38px;
+  padding-top: 1px;
+  font-size: 34px;
+  color: cyan;
+}
+.produtotexto h1,
+.botaopreco p {
+ 
+    font-family: 'bentman', serif;
+}
+
+.produtos h2{
+margin: 0 0 47px 38px;
+font-size: 13px;
+font-family: 'rekeway', sans-serif;
+font-weight: 400px;
+text-transform: uppercase;
+color: cornflowerblue;
+}
+ 
+
+
+
+
+
+    
+    
